@@ -1,5 +1,6 @@
 # Welcome to NovaCards 👋
 ## Who are we?
+
 NovaCards is an intelligent web application designed to help medical students find Anki cards relevant to their studies. We utilize machine learning to help you cut down on the time you spend searching for cards and tags related to your lecture content for the AnKing card deck. 
 
 As medical students ourselves, we know that it can take up to **two hours a day** to find relevant cards and tags from high quality pre-made decks such as the AnKing deck. NovaCards was designed to eliminate this wasted effort. By simply uploading lecture materials, textbook chapters, notes, or other study materials, our app will allow users to find the most relevant study materials in mere seconds. As medical students ourselves, we know how important every bit of time can be to acheive success in medical school.
