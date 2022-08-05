@@ -1,6 +1,6 @@
 # Welcome to NovaCards.ai 👋
 ## Who are we?
-The dopest
+The dopest!
 
 <!--
 
